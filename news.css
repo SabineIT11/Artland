@@ -1,0 +1,113 @@
+/* body style */
+body{
+  margin-left:200px;
+  margin-right: 200px;
+
+  position: static;
+  background-color: #dadfe8;
+}
+/* news 1 */
+#photo1{
+  margin-bottom: 50px;
+  margin-top: 50px;
+margin-left: 210px;
+}
+#photo2{
+  margin-bottom: 50px;
+  margin-top: 50px;
+  width: 400px;
+margin-left: 220px;
+}
+/* news 2 */
+#photo3{
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+#photo4{
+  margin-bottom: 50px;
+  margin-top: 50px;
+  width: 300px;
+margin-left: 220px;
+}
+/* All pages */
+h1{
+  font-size: 70px;
+  border-style: outset;
+}
+p{
+  font-size: 20px;
+    background-color: #ebe6da;
+    margin-bottom: 50px;
+}
+button{
+ font-size: 20px;
+}
+h2{
+  font-size: 30px;
+  font-style: italic;
+}
+/* news3 */
+#photo5{
+  margin-bottom: 50px;
+  margin-top: 50px;
+  width: 300px;
+margin-left: 210px;
+}
+#photo6{
+  margin-bottom: 50px;
+  margin-top: 50px;
+  width: 400px;
+margin-left: 210px;
+}
+#photo7{
+  margin-bottom: 40px;
+  margin-top: 40px;
+  width: 400px;
+margin-left: 210px;
+}
+/* all */
+h3{
+    background-color: #ebe6da;
+    font-size: 25px;
+}
+li{
+  font-size: 21px;
+}
+/* news 3 */
+#photo8{
+  margin-bottom: 40px;
+  margin-top: 40px;
+  width: 300px;
+margin-left: 210px;
+}
+#photo9{
+  margin-bottom: 40px;
+  margin-top: 40px;
+  width: 400px;
+margin-left: 210px;
+}
+#photo10{
+  margin-bottom: 40px;
+  margin-top: 40px;
+  width: 400px;
+margin-left: 210px;
+}
+#photo11{
+  margin-bottom: 40px;
+  margin-top: 40px;
+  width: 500px;
+margin-left: 210px;
+}
+/* news 4 */
+#photo12{
+  margin-bottom: 40px;
+  margin-top: 40px;
+  width: 700px;
+margin-left: 100px;
+}
+#photo13{
+  margin-bottom: 40px;
+  margin-top: 40px;
+  width: 350px;
+margin-left: 240px;
+}
